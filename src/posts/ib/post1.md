@@ -1,5 +1,5 @@
 ---
-path: "/markdown-pages/post1"
+path: "/posts/ib/post1"
 date: "March 24th 2020"
 title: "How Hong Kong gamed the IB Diploma"
 topic: "Hong Kong, Education"
@@ -8,7 +8,9 @@ topic: "Hong Kong, Education"
 The International Baccalaureate Diploma Program (IBDP) is a two-year educational programme that provides internationally accepted qualification
 for entry into higher education. Generally, many international schools around the world use the IB program.
 
-(From here on out, I will assume that you have either taken the IB before or have a general idea about the course).
+> (From here on out, I will assume that you have either taken the IB before or have a general idea about the course).
+
+<br />
 
 ![May 2019 IB global averages](ibimages/averagepts.png)
 
@@ -34,41 +36,54 @@ Why?
 What we need to realize, is that the IB isn't very creative in giving out questions. Take a look at these two Math HL Paper 1's:
 
 
-
-this one from May 2014 Timezone 2: 
+<p align: center>
+<b>This one from May 2014 Timezone 2: </b>
 
 ![](ibimages/2014mayp1tz2mathHL.PNG)
 
-and this one from May 2016 Timezone 2:
+<b>And this one from May 2016 Timezone 2: </b>
 
 ![](ibimages/2016p1tz2mathHL.PNG)
+</p>
 
 
 
-
-<b>NANI</b>! They're the same. wHaT. Yeah this is the IB. They are super lazy in test writing. In fact, from past experience from doing every single paper in every single timezone from May 2013 to Nov 2018, on average, the question styles of 9 out of 10 questions in a math paper has appeared before. That means that as long as you do every single math paper and understand it, you are guaranteed at least 90% in that math paper. For reference, the grade boundary for a 7 in Math HL May 2019 timezone 2 is 78%.
+<b>NANI</b>! They're the same. wHaT. Yeah this is the IB. They are super lazy in test writing. In fact, on average, 8 out of 10 questions on a math paper will have a similar question that has appeared before. The source of this is me and my experience of doing every single past paper from every single timezone from May 2013 to Nov 2018. That means that as long as you do every single math paper and understand it, you are guaranteed at least 80% in that math paper. For reference, the grade boundary for a 7 in Math HL May 2019 timezone 2 is 78%.
 
 > It's that easy!
 
-Of course, people always make careless mistakes so you may not get 90%. Heck, some people may get fooled by a trick question or two (ahem me). That is why having some understanding of math is still important to be able to at least get some points from the occasional curveball question that they throw at you. Because usually, those questions are practically unsolvable unless you have done something similar in some math competitions or you're just smart. Generally, the majority of candidates don't score high on those questions - and I know this because I read the occasional examiner reports that come attached with the markschemes. 
+Of course, people always make careless mistakes so you may not get 80%. Heck, some people may get fooled by a trick question or two (ahem me). That is why having a goo understanding of math is still important to be able to at least get some points from the occasional curveball question that they throw at you. Because usually, those questions are practically unsolvable unless you have done something similar in some math competitions or you're just smart. Generally, the majority of candidates don't score high on those questions - and I know this because I read the occasional examiner reports that come attached with the markschemes. 
 
 So what these tutoring centres do, is they drill the students with past papers. What if you do all the past papers available? Do you do them again. I know for a fact that NTK usually writes prediction papers in the months leading up to the exam so students can get that extra mock exam practice in. So are these prediction papers accurate? I wouldn't know since I haven't done them, but my guess is that they should be quite similar since the IB is quite predictable. Take another example from two different Economics HL paper 1's:
 
 
+<p align: center>
+<b>This one from May 2014 Timezone 1: </b>
 
-this one from May 2014 Timezone 1:  
 ![](ibimages/M14EconHP1TZ1.PNG)
 
 
-and this one from May 2017 Timezone 1:
+<b>And this one from May 2017 Timezone 1: </b>
 
 ![](ibimages/EconHLMay2017P1TZ1.PNG)
+</p>
 
 
+> They're practically the same question - by the way if you get that type of question in the real exam you lucked out. 
 
->Practically the same question.
+For those who know about the economics course, you will know that in paper 1, there's only so many 10 mark and 15 mark questions that an examiner can ask. Sometimes they are left without a choice but to double up on questions - furthermore, candidates can even choose which questions they want to answer. 
 
-For those who know about the economics course, you will know that in paper 1, there's only so many 10 mark and 15 mark questions that an examiner can ask. Sometimes they are left without a choice but to double up on questions - furthermore, candidates can choose which questions they want to answer. Tutors and teachers who realize this will know to tailor the way they teach to make sure that their students are prepared for at least half of the questions that may appear in the exam. Those who have taken econ before will know that the worst feeling is to get cheesed by a paper 1 question. 
+> ...and your point is?
+
+My point, is that tutors and teachers who realize this will know to tailor the way they teach to make sure that their students are prepared for at least half of the questions that may appear in the exam. Those who have taken econ before will know that the worst feeling is to get cheesed by a paper 1 question. Hence, why those who can afford a tutor that can teach you these things is put in a much more advantageous (I know THIS one at least is spelt correctly cuz I just searched it up) position than those who can't. 
+
+> But why can't teachers in your school teach you this?
+
+Because they're <strike>useless</strike>. Ok that was only half the truth. At least in our school, a big majority of teachers have only had a lot of experience teaching A-levels, and are perhaps not as knowledgable and rigorous when it comes to teaching the IB. That being said, we ARE trying to get better at teaching the IB, <strike>wait nevermind we switched to MYP</strike>. 
+
+Another point that I would like to make, perhaps a very important point, is that generally in many international schools such as ESF, teachers don't tend to push students as hard. You know all those [Kumon](https://www.kumon.com.hk/en/) memes on subtle asian traits? yeah turns out those actually help you. Good basics and understanding is the key to doing well in these exams. Time management is key in these time-crunching papers, so doing a TON of practice is crucial to excelling in the real exams, when pressure and getting cheesed by mAtH pAPeR tWO, can be quite overwhelming. It turns out that cram schools are quite good at drilling you with practice, you are also extra motivated to actaully do the practice because you paid a shit ton of money for it. (I actually debated between using shit, crap and butt. <i>Language in a cultural context</i>. My English teacher would be proud).
+
+> Also, anything that I said above does not apply to you if you're smart af. 
 
 <h2>Hard work pays off</h2>
 
@@ -108,7 +123,11 @@ Furthermore, the way higher education works in the US, is that once universities
 
 So the main reasons why the difference in IB scores between Hong Kong and the global average is because of the existence of cram schools (and again I am not advertising for them), the hardwork of students due to cultural pressures, as well as the educational system that allows them to do so. 
 
-I would like to say that these are purely my own opinions and they may or may not hold any truth in them. If you have read up to this point, I would like to thank you for putting up with my garbage English, this is the first time I've written actual English in a long time. 
+> In other words, being smart doesn't actually help you that much: effort + money = 45, E = MC<sup>2</sup>. Same thing. (You actually learn about that equation in HL physics. Very cool. Highly recommend the course. Also the grade boundary for a 7 is aroud 67%. So ez.)
 
-For any of you who are currently taking the IB, feel free to contact me for any advice. I am happy to give any advice where I can, believe it or not, 45 isn't actually that hard to achieve. Good Luck!
+I would like to say that these are purely my own opinions and they may or may not hold any truth in them. If you have read up to this point, I would like to thank you for putting up with my garbage English, this is the first time I've written actual English in a long time. (No idea how I got a 7 in English, clearly didn't deserve it).
+
+For any of you who are currently taking the IB, feel free to contact me for any advice. I am happy to give any advice where I can. Believe it or not, 45 isn't actually that hard to achieve.
+
+ Good Luck!
 

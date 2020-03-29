@@ -20,7 +20,6 @@ export default function Template({data,}) {
                 {' '}&bull;{' '}
                 {frontmatter.topic}
               </small> 
-              
             </p>
             <div sx={{
               // h1:  

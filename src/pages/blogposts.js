@@ -5,12 +5,27 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 import selfPortrait from "../images/Photo.jpg"
+import {jsx} from "theme-ui"
 
 
 const blogPostsPage = () => (
   <Layout>
     <SEO title="Posts" />
-    <Link to="../markdown-pages/post1">Hello</Link>
+    <div>
+    <h2 style={{
+      margin: 0
+      }}
+      sx={{
+      fontFamily:"heading",
+      }}>
+      <Link to="../posts/ib/post1">How Hong Kong gamed the IB Diploma</Link>
+    </h2>
+    <p>
+      <small>March 24th 2020{' '}&bull;{' '}Hong Kong, Education</small> <br/>
+      The issues behind the scenes as well as some tips and tricks to success in the IB
+    </p>
+    </div>
+    <Link to="../posts/ib/post1"></Link>
 
   </Layout>
 )

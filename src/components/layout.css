@@ -42,6 +42,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  color: #ee4466;
 }
 a:active,
 a:hover {
@@ -208,6 +209,7 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  line-height: 1.85rem;
 } 
 img {
   max-width: 100%;
@@ -630,5 +632,21 @@ pre tt:after {
   margin-right: auto;
   display: block;
 }
+
+ blockquote {
+  display:block;
+  background: #fff;
+  margin: 15px 20px 25px 10px;
+  padding: 1px 10px 1px 10px;
+  position: relative;
+  line-height: 1.5;
+  color: black;
+  text-align: justify;
+  border-left:  4px solid #ee4466;
+  font-style: italic;
+  /* -moz-box-shadow: -1px 2px 5px #ccc;
+  -webkit-box-shadow: -1px 2px 5px #ccc;
+  box-shadow: -1px 2px 5px #ccc; */
+  }
 
 
