@@ -2,6 +2,7 @@ import React from "react"
 import {graphql} from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import {jsx} from "theme-ui"
 
 export default function Template({data,}) {
     const {markdownRemark } =  data
@@ -21,12 +22,14 @@ export default function Template({data,}) {
               </small> 
               
             </p>
-            <div 
-            style ={{color: `black`
-
-          }}
-            dangerouslySetInnerHTML={{__html: html }} 
-            />
+            <div sx={{
+              // h1:  
+              color: "primary",
+              backgroundColor: "background",
+            }}
+            dangerouslySetInnerHTML={{__html: html }}
+          />
+            
             </p>
         </div>
     </div>
