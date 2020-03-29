@@ -28,7 +28,6 @@ export default function Template({data,}) {
             }}
             dangerouslySetInnerHTML={{__html: html }}
           />
-            
             </p>
         </div>
     </div>
