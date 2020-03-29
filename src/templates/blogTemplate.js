@@ -22,6 +22,9 @@ export default function Template({data,}) {
               
             </p>
             <div 
+            style ={{color: `black`
+
+          }}
             dangerouslySetInnerHTML={{__html: html }} 
             />
             </p>
