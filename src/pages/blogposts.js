@@ -18,14 +18,13 @@ const blogPostsPage = () => (
       sx={{
       fontFamily:"heading",
       }}>
-      <Link to="../posts/ib/post1">How Hong Kong gamed the IB Diploma</Link>
+      <Link to="../posts/ib/How-Hong-Kong-gamed-the-IB-Diploma">How Hong Kong gamed the IB Diploma</Link>
     </h2>
     <p>
       <small>March 24th 2020{' '}&bull;{' '}Hong Kong, Education</small> <br/>
       The issues behind the scenes as well as some tips and tricks to success in the IB
     </p>
     </div>
-    <Link to="../posts/ib/post1"></Link>
 
   </Layout>
 )

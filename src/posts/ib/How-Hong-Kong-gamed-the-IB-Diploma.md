@@ -1,5 +1,5 @@
 ---
-path: "/posts/ib/post1"
+path: "/posts/ib/How-Hong-Kong-gamed-the-IB-Diploma"
 date: "March 24th 2020"
 title: "How Hong Kong gamed the IB Diploma"
 topic: "Hong Kong, Education"
@@ -12,14 +12,14 @@ for entry into higher education. Generally, many international schools around th
 
 <br />
 
-![May 2019 IB global averages](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/averagepts.png)
+![May 2019 IB global averages](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/averagepts.png?raw=true)
 
 So if we look at the statistics, the global average score for the IB is 29.65 points total in the May 2019 examinations. Meanwhile, the Hong Kong average is 35.99.
 I'm sure there have been many articles that have talked about how Hong Kong students [rank among the world's top ten in standardized testing](https://www.oecd.org/pisa/publications/pisa-2018-resultshtm.htm). However, I'm here to talk about why specifically, certain schools in Hong Kong are able to excel in th IB diploma program. In particular, I will talk about my own secondary school, [Sha Tin College](https://shatincollege.edu.hk/), which achieved the best results among any IB school in Hong Kong during the May 2019 examinations, with 11 students achieving 45 points, myself included. 
 
 Fun fact: I looked up the figures for the number of students that scored 45 points in the May 2019 examinations. In total, there were 275 students that scored a 45 globally, 36 of those came from Hong Kong. 
 
-![May 2019 point distribution](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/pointdistribution.PNG)
+![May 2019 point distribution](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/pointdistribution.PNG?raw=true)
 
 Ok so that's enough of tooting my own horn. What's going on here? Why are the numbers showing this?
 
@@ -39,11 +39,11 @@ What we need to realize, is that the IB isn't very creative in giving out questi
 <p align: center>
 <b>This one from May 2014 Timezone 2: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/2014mayp1tz2mathHL.PNG)
+![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/2014mayp1tz2mathHL.PNG?raw=true)
 
 <b>And this one from May 2016 Timezone 2: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/2016p1tz2mathHL.PNG)
+![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/2016p1tz2mathHL.PNG?raw=true)
 </p>
 
 
@@ -60,12 +60,12 @@ So what these tutoring centres do, is they drill the students with past papers. 
 <p align: center>
 <b>This one from May 2014 Timezone 1: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/M14EconHP1TZ1.PNG)
+![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/M14EconHP1TZ1.PNG?raw=true)
 
 
 <b>And this one from May 2017 Timezone 1: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/EconHLMay2017P1TZ1.PNG)
+![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/EconHLMay2017P1TZ1.PNG?raw=true)
 </p>
 
 
@@ -95,7 +95,7 @@ The logic behind the IAs and presentations are simple, if you put that little bi
 
 Sounds hypothetical, sounds farfetched, but it does matter at the end and you will regret it if you don't do it.
 
-![Pikachu meme](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/pikachumeme.png)
+![Pikachu meme](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/pikachumeme.png?raw=true)
 
 Don't be that guy. 
 
@@ -115,9 +115,9 @@ I'm going to end off on this one. Remember how I rattled off a bunch of numbers 
 
 In Hong Kong, except for [ESF](https://www.esf.edu.hk/) (English Schools Foundation) schools, almost all other schools are not full IB schools. What this means is that their school has some of their students do the IB, while they have some other students do another high school-level program. For example, [DBS](https://www.dbs.edu.hk/) (Diocesian Boy's School), one of the most prestigious local schools in Hong Kong, only lets the top 60 or so students in the cohort to take the IB program. With such selectiveness, it is not surprising that the average IB score in DBS is 40.1 points, much higher than the average of ESF 
 
-Meanwhile, having talked to some people at UCLA, I learnt that some high schools in the United States that do the IB program have students take the IB along with some AP classes. Now that's tough. It wouldn't be surprising that their average IB score was lower. 
+Meanwhile, having talked to some people at UCLA, I learnt that some high schools in the United States that do the IB program have students take the IB along with some AP classes + SAT/ACT. Now that's tough. It wouldn't be surprising that their average IB score was lower. 
 
-Furthermore, the way higher education works in the US, is that once universities accept you in February-March, it's a binding contracting, meaning that no matter how low your scores are, you'll still be going to that university. Hence, meaning that your final exam and IB scores don't actually matter. On the other hand, for universities in the UK, Hong Kong, and Australia, conditional offers are given to applicants based on their scores, which means that you need to achieve a certain score to get into that university. This means that the students who apply to these universities are more likely to try harder in the final exam. Rip us. Since the majority of students who apply to these universities are going to be from that country, we can see why IB resuls in Hong Kong are so skewed. 
+Furthermore, the way higher education works in the US, is that once universities accept you in February/March, it's a binding contracting, meaning that no matter how low your scores are, you'll still be going to that university. Hence, meaning that your final exam and IB scores don't actually matter. On the other hand, for universities in the UK, Hong Kong, and Australia, conditional offers are given to applicants based on their scores, which means that you need to achieve a certain score to get into that university. This means that the students who apply to these universities are more likely to try harder in the final exam. Rip us. Since the majority of students who apply to these universities are going to be from that country, we can see why IB resuls in Hong Kong are so skewed. 
 
 <h2>Conclusion: To wrap it up</h2>
 
