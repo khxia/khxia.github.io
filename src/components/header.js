@@ -18,59 +18,59 @@ const Header = ({ siteTitle }) => (
       }}
     >
       <div>
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `#ee4466`,
-            textDecoration: `none`,
-            fontFamily: `ヒラギノ角ゴ Pro W3`,
-            fontStyle: `italic`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-        <div style={{float: `right`,}}>
+        <h1 style={{ margin: 0 }}>
+          <Link
+            to="/"
+            style={{
+              color: `#ee4466`,
+              textDecoration: `none`,
+              fontFamily: `ヒラギノ角ゴ Pro W3`,
+              fontStyle: `italic`,
+            }}
+          >
+            {siteTitle}
+          </Link>
+        </h1>
+        <div style={{ float: `right`, }}>
           <Link to="/" style={{
-          color: `#ee4466`,
-          } }>
-          Home
+            color: `#ee4466`,
+          }}>
+            Home
           </Link>{' '}
           {'|'}{' '}
           <Link to="/aboutme" style={{
-          color: `#ee4466`,
-          } }>
-          About me
+            color: `#ee4466`,
+          }}>
+            About me
           </Link>{' '}
         </div>
       </div>
-      <div class = "flex-container">
-        <p style={{maxWidth: 230}}>Personal blog by Alex Xia {' '}
-        <a
-          href="https://github.com/khxia"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            color: `#ee4466`,
-          }}
-        >
-          github
+      <div class="flex-container">
+        <p style={{ maxWidth: 230 }}>Personal blog by Alex Xia {' '}
+          <a
+            href="https://github.com/khxia"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              color: `#ee4466`,
+            }}
+          >
+            github
         </a>{' '}
         &bull;{' '}
-        <a
-          href="https://www.facebook.com/alex.xia.58"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            color: `#ee4466`,
-          }}
-        >
-          resume
+          <a
+            href="https://github.com/khxia/khxia.github.io/blob/dev2/src/images/Resume_Xia.pdf?raw=true"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              color: `#ee4466`,
+            }}
+          >
+            resume
         </a>{' '}
         </p>
-        
-      </div>  
+
+      </div>
     </div>
   </header>
 )
