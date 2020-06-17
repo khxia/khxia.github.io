@@ -7,6 +7,8 @@ import SEO from "../components/seo"
 import selfPortrait from "../images/Photo.jpg"
 import { jsx } from "theme-ui"
 
+// const katex = require(`katex/dist/katex.min.css`)
+// import "katex/dist/katex.min.css"
 
 const blogPostsPage = () => (
   <Layout>
