@@ -59,7 +59,7 @@ const Header = ({ siteTitle }) => (
         </a>{' '}
         &bull;{' '}
           <a
-            href="https://github.com/khxia/khxia.github.io/blob/dev2/src/images/Resume_Xia.pdf?raw=true"
+            href="https://github.com/khxia/khxia.github.io/blob/dev2/src/images/Resume_US_Alex.pdf?raw=true"
             target="_blank"
             rel="noopener noreferrer"
             style={{
