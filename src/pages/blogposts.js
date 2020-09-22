@@ -14,18 +14,9 @@ const blogPostsPage = () => (
   <Layout>
     <SEO title="Posts" />
     <div>
-      <h2 style={{
-        margin: 0
-      }}
-        sx={{
-          fontFamily: "heading",
-        }}>
-        <Link to="../posts/ib/How-Hong-Kong-gamed-the-IB-Diploma">How Hong Kong gamed the IB Diploma</Link>
-      </h2>
       <p>
-        <small>March 24th 2020{' '}&bull;{' '}Hong Kong, Education</small> <br />
-      The issues behind the scenes as well as some tips and tricks to success in the IB diploma.
-    </p>
+        <i> Welcome to my blog. This is where I talk about anything I want to talk about.</i>
+      </p>
       <h2 style={{
         margin: 0
       }}
@@ -36,6 +27,18 @@ const blogPostsPage = () => (
       </h2>
       <p>
         <small>June 14th 2020{' '}&bull;{' '}Math</small> <br />
+      A mini analysis on how to choose the mathematically optimal present
+    </p>
+      <h2 style={{
+        margin: 0
+      }}
+        sx={{
+          fontFamily: "heading",
+        }}>
+        <Link to="../posts/ib/How-Hong-Kong-gamed-the-IB-Diploma">How Hong Kong gamed the IB Diploma</Link>
+      </h2>
+      <p>
+        <small>March 24th 2020{' '}&bull;{' '}Hong Kong, Education</small> <br />
       The issues behind the scenes as well as some tips and tricks to success in the IB diploma.
     </p>
     </div>
