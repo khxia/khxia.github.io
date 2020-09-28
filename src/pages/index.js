@@ -24,6 +24,18 @@ const IndexPage = () => (
         sx={{
           fontFamily: "heading",
         }}>
+        <Link to="/manga_list">My Top 10 Manga of All Time</Link>
+      </h2>
+      <p>
+        <small>September 27th 2020{' '}&bull;{' '}Manga</small> <br />
+        A place to refer to in case anyone asks me "I need so manga recs" again. Here you go.
+    </p>
+      <h2 style={{
+        margin: 0
+      }}
+        sx={{
+          fontFamily: "heading",
+        }}>
         <Link to="/anime_list">My Top 10 Anime of All Time</Link>
       </h2>
       <p>

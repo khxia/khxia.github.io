@@ -1,8 +1,8 @@
 import React from 'react';
 import { useTable } from 'react-table';
-import { data, columns } from './data_anime'
+import { data, columns } from './data_manga'
 
-function AnimeTable() {
+function MangaTable() {
     const tableInstance = useTable({ columns, data })
 
     const {
@@ -59,4 +59,4 @@ function AnimeTable() {
     );
 }
 
-export default AnimeTable;
+export default MangaTable;
