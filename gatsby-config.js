@@ -49,11 +49,16 @@ module.exports = {
         icon: `src/images/circle-cropped2.png`, // This path is relative to the root of the site. // change eventually.
       },
     },
-    // `gatsby-plugin-mdx`,
     `gatsby-plugin-theme-ui`,
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    `gatsby-plugin-mdx`,
+    // {
+    //   resolve: `gatsby-plugin-mdx`,
+    //   options: {}
+
+    // }
   ],
 }

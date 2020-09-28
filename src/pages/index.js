@@ -6,7 +6,6 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 import selfPortrait from "../images/Photo.jpg"
 
-
 const IndexPage = () => (
   <Layout>
     {/* <SEO title="Home" />
@@ -14,10 +13,24 @@ const IndexPage = () => (
       <i> Welcome to my blog. This is where I talk about anything I want to talk about.</i>
     </p>
     <Link to="/blogposts">Blog Posts</Link> */}
+    <SEO title="Home" />
     <div>
       <p>
         <i> Welcome to my blog. This is where I talk about anything I want to talk about.</i>
       </p>
+      <h2 style={{
+        margin: 0
+      }}
+        sx={{
+          fontFamily: "heading",
+        }}>
+        <Link to="/anime_list">My Top 10 Anime of All Time</Link>
+      </h2>
+      <p>
+        <small>September 27th 2020{' '}&bull;{' '}Anime</small> <br />
+      A place to refer to in case anyone asks me "which anime do you like the most?" again.
+      I don't have one. I have ten.
+    </p>
       <h2 style={{
         margin: 0
       }}
@@ -55,6 +68,7 @@ const IndexPage = () => (
       The issues behind the scenes as well as some tips and tricks to success in the IB diploma.
     </p>
     </div>
+
   </Layout>
 )
 

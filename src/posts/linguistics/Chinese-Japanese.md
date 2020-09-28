@@ -16,7 +16,7 @@ topic: "Linguistics"
 A little bit of background about me: I have always spoken Mandarin with my family, so Mandarin is as much as a native language to me as English is. However, I grew up in Hong Kong, so I am very much familiar with Cantonese, which I consider a dialect of Mandarin. Since I studied at an international school in Hong Kong, I was taught Mandarin instead of Cantonese, hence which is why although I can speak and listen to Cantonese, I am more comfortable with reading and writing in Mandarin. Japanese is much more of a second language to me than English, Mandarin, and Cantonese. I have been self-teaching myself Japanese for the past 5 years, mainly learning through online tutorials, watching Japanese shows, and playing games in Japanese. 
 
 <i>Note to readers:</i> This blog post will not talk about similar words in Chinese and Japanese that have resulted about because both words share the same kanji. Examples include: 
-- 时间 ('jikan') and 时间 （'shíjiān')
+- 时间 ('jikan') and 时间（'shíjiān')
 - 三 ('san') and 三 ('sān')
 - 概念 ('gainen') amd 概念 ('gàiniàn')
 
