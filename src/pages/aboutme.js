@@ -59,7 +59,7 @@ function AboutMe() {
                   <b>Games</b> - <strike>Now before people start assuming things, I would like to clarify that I do have some actual
               redeeming qualities. </strike> I really like games a lot, I believe that it's a big part of what brings people together. In fact, what inspired me to
               study CS in the first place was because of computer games. I've been playing <a href="https://na.leagueoflegends.com/en-us/" style={{ color: `#ee4466` }}> League of Legends </a>
-              for almost 6 years, but lately I've been getting quite into <a href="https://www.nintendo.com/games/detail/fire-emblem-three-houses-switch/" style={{ color: `#ee4466` }}>Fire Emblem: Three Houses</a> and
+              for almost 6 years, but lately I've been getting quite into <a href="https://playvalorant.com/en-us/" style={{ color: `#ee4466` }}>VALORANT</a> and
               <a href="https://www.smashbros.com/en_US/" style={{ color: `#ee4466` }}> Super Smash Bros. Ultimate</a>.
             </li>
 

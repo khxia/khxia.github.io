@@ -119,7 +119,10 @@ def calculate_price_score(x):
         print("Price has to be a positive number!")
         return -1
 ```
+
+<br>
 Where:
+
 $$
 f(x)= \frac{k}{x + \frac{k}{30}}
 $$
@@ -184,6 +187,7 @@ def calculate_s1(gift):
     
     return 0  
 ```
+<br>
 
 We could also use a similar program but with different lists to calculate $s_2$. Simply put convential presents in `favorites_list`, unconventional presents in `mediocre_list`, and downright unappropriate presents in `hate_list`. This will give us a very crude approximation for the personal preference score and the giftability score. It is also important to note that often times we will do this sort of analysis unconsciously in our head whenever we are choosing and browsing for gifts. Perhaps you may have also noticed it yourself whenever you pick up a present, you are thinking about whether or not the recipient will like this sort of thing and whether or not the gift is appropriate. Just goes to show how amazingly difficult it is to replicate good old common sense in mathematics. AI is the future I guess. 
 
