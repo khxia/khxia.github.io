@@ -1,6 +1,6 @@
 ---
 path: "/posts/python/pdf-merger"
-date: "October 2nd 2020"
+date: "November 20th 2020"
 title: "How to create your own custom PDF merger using PyPDF2"
 topic: "Python"
 ---
@@ -197,8 +197,8 @@ There we go, we have now created a simple program that can merge PDFs for us! Wh
 
 That being said, PyPDF2 is **not** a universal PDF toolkit and does not "provide all possible PDF-related functionality" as stated in the official website (it also links [other PDF libraries](http://phaseit.net/claird/comp.text.pdf/PDF_toolkits.html) that you may find useful). However, PyPDF2 is pretty simple to setup and use, so if you are ever stuck in a bind, you know what to do.
 
-Or you could buy Adobe Acrobat Pro and forget about every thing I just said. 
+Or you could buy Adobe Acrobat Pro and forget about everything I just said. 
 
 <p align="center">
-<img width="300px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/adobe_meme.jpg?raw=True"></img>
+<img width="200px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/adobe_meme.jpg?raw=True"></img>
 </p>

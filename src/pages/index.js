@@ -24,10 +24,10 @@ const IndexPage = () => (
         sx={{
           fontFamily: "heading",
         }}>
-        <Link to="../posts/python/pdf-merger">How to create your own custom PDF merger</Link>
+        <Link to="../posts/python/pdf-merger">How to create your own custom PDF merger using PyPDF2</Link>
       </h2>
       <p>
-        <small>October 2nd 2020{' '}&bull;{' '}Python</small> <br />
+        <small>November 20th 2020{' '}&bull;{' '}Python</small> <br />
         Just a useful Python tool if you ever need to merge PDFs and you don't have a mac...
     </p>
       <h2 style={{
