@@ -24,7 +24,19 @@ const IndexPage = () => (
         sx={{
           fontFamily: "heading",
         }}>
-        <Link to="/manga_list">My Top 10 Manga of All Time</Link>
+        <Link to="../posts/python/pdf-merger">How to create your own custom PDF merger</Link>
+      </h2>
+      <p>
+        <small>October 2nd 2020{' '}&bull;{' '}Python</small> <br />
+        Just a useful Python tool if you ever need to merge PDFs and you don't have a mac...
+    </p>
+      <h2 style={{
+        margin: 0
+      }}
+        sx={{
+          fontFamily: "heading",
+        }}>
+        <Link to="/manga_list">My Top 10 Manga of all time</Link>
       </h2>
       <p>
         <small>September 27th 2020{' '}&bull;{' '}Manga</small> <br />
@@ -36,7 +48,7 @@ const IndexPage = () => (
         sx={{
           fontFamily: "heading",
         }}>
-        <Link to="/anime_list">My Top 10 Anime of All Time</Link>
+        <Link to="/anime_list">My Top 10 Anime of all time</Link>
       </h2>
       <p>
         <small>September 27th 2020{' '}&bull;{' '}Anime</small> <br />
@@ -61,7 +73,7 @@ const IndexPage = () => (
         sx={{
           fontFamily: "heading",
         }}>
-        <Link to="../posts/decision_making_math/The-Mathematics-behind-present-giving">The Mathematics behind choosing a present</Link>
+        <Link to="../posts/math/The-Mathematics-behind-present-giving">The Mathematics behind choosing a present</Link>
       </h2>
       <p>
         <small>June 14th 2020{' '}&bull;{' '}Math</small> <br />

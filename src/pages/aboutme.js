@@ -41,7 +41,8 @@ function AboutMe() {
             padding: '2px',
             marginLeft: 'auto',
             marginRight: 'auto',
-            display: 'block'
+            display: 'block',
+            borderRadius: '10px'
           }}
             alt="" fixed={data.selfImg.childImageSharp.fixed} />
           <p>

@@ -1,5 +1,5 @@
 ---
-path: "/posts/decision_making_math/The-Mathematics-behind-present-giving"
+path: "/posts/math/The-Mathematics-behind-present-giving"
 date: "June 14th 2020"
 title: "The Mathematics behind choosing a present"
 topic: "Math"

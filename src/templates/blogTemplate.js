@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { jsx } from "theme-ui"
+import { Link } from "gatsby";
 
 
 // const katex = require(`katex/dist/katex.min.css`)
@@ -33,6 +33,7 @@ export default function Template({ data, }) {
             />
           </p>
         </div>
+        <Link to="/">Back to Home</Link>
       </div>
     </Layout>
   )
