@@ -9,6 +9,10 @@ topic: "Python"
 
 I'm sure there has been a time in our lives when we have wanted to merge some PDFs together for whatever reason. If you're on a Mac, then congrats to you because you don't need to worry about things like editing PDFs and whatnot. However, if you're a poor Windows user like me and did not pay for Adobe Acrobat Pro DC, then finding a solution for merging PDFs is not as easy. 
 
+<p align="center">
+<img width="400px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/os_meme.jpg?raw=True"></img>
+</p>
+
 Of course, there are websites out there that can automatically merge PDFs for you and there are also free PDF editor apps out there which you can use to merge PDFs. However, there are concerns that people have when they use them. For example, if you are dealing with sensitive documents that contains your personal information (name, address, phone number, ID number) or confidential documents eg. official forms, company documents etc, then you may not want to use an online PDF merger tool since you don't want to be uploading those sensitive documents onto their servers. Free PDF editors apps eg. [soda PDF](https://www.sodapdf.com/) are riddled with ads and may require you to pay for premium at some point. 
 
 Anyways, the point is that there may come a time where you want a quick and easy way to merge some PDFs, or manipulate any PDf. Thankfully, there is a Python library called [PyPDF2](http://mstamy2.github.io/PyPDF2/) that lets us do this easily. 
@@ -16,7 +20,7 @@ Anyways, the point is that there may come a time where you want a quick and easy
 > <details>
 > <summary>Stop the cap and gimme the code</summary>
 > 
-> No problem. You can see the full implementation of the PDF merger in the [Github repo]()
+> No problem. You can see the full implementation of the PDF merger in the [Github repo](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/mergepdf.py)
 > 
 > </details>
 
@@ -108,6 +112,10 @@ Now that we have done the preparatory work, we can call a function called `cat_p
 
 Here comes the fun part: merging the PDFs. There are actually two different ways to do this. We will have a look at both of them. 
 
+<p align="center">
+<img width="400px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/methods_meme.jpg?raw=True"></img>
+</p>
+
 <h3>Method 1</h3>
 
 The first method is the read and write method. To do that we will need to import two methods from PyPDF2.
@@ -188,3 +196,9 @@ This one doesn't require much explanation. Using the `.append` method of the `Pd
 There we go, we have now created a simple program that can merge PDFs for us! While method 2 is perhaps the easier method, the flexibility that method 1 gives us is also quite attractive. Since it appends the PDFs on a page by page basis, we can omit certain pages, reorder pages, or do many of the other cool stuff that [PdfFileWriter](https://pythonhosted.org/PyPDF2/PdfFileWriter.html) provides eg. adding bookmarks, adding JavaScript, removing images, removing and adding links etc. 
 
 That being said, PyPDF2 is **not** a universal PDF toolkit and does not "provide all possible PDF-related functionality" as stated in the official website (it also links [other PDF libraries](http://phaseit.net/claird/comp.text.pdf/PDF_toolkits.html) that you may find useful). However, PyPDF2 is pretty simple to setup and use, so if you are ever stuck in a bind, you know what to do.
+
+Or you could buy Adobe Acrobat Pro and forget about every thing I just said. 
+
+<p align="center">
+<img width="300px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/adobe_meme.jpg?raw=True"></img>
+</p>

@@ -16,7 +16,7 @@ def cat_pdf(input_files, output_stream):
 	finally:
 		for f in input_streams:
 			f.close()
-	
+
 def cat_pdf_2(input_files, output_stream):
 	merger = PdfFileMerger()
 	for input_file in input_files:
@@ -30,8 +30,6 @@ if __name__ == "__main__":
 	new_file_path = os.path.join(root, new_file_name)
 	o_stream = open(new_file_path, 'wb')
 	i_files = [(root + '/' + x) for x in os.listdir(root) if x.endswith(".pdf") and x != new_file_name]
-	
-    cat_pdf(i_files, o_stream) # Method 1 
-    
-    # cat_pdf_2(i_files, o_stream) # Method 2
+	cat_pdf(i_files, o_stream) # Method 1 
+	# cat_pdf_2(i_files, o_stream) # Method 2
 	o_stream.close()
