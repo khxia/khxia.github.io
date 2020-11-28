@@ -3,12 +3,16 @@ path: "/posts/linguistics/Chinese-Japanese"
 date: "September 24th 2020"
 title: "A Linguistic comparison between Chinese and Japanese"
 topic: "Linguistics"
+sort_date: "20200924"
+description: "A glimspe of how modern Japanese and modern Chinese differ linguistically, despite coming from the same roots."
 ---
 
 <i>Disclaimer: This paper was written for Linguistics 1 course at UCLA. It was edited a little to act as a blog post. Do not use this work without my permission or else you will be violating academic integrity.</i>
 
 <p align="center">
-<img src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/linguistics/jpcn_art.png?raw=true"></img>
+
+![](./jpcn_art.png)
+
 </p>
 
 <h2>Introduction</h2>

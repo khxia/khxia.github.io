@@ -5,8 +5,6 @@ import SEO from "../components/seo"
 import { Link } from "gatsby";
 
 
-// const katex = require(`katex/dist/katex.min.css`)
-
 export default function Template({ data, }) {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark

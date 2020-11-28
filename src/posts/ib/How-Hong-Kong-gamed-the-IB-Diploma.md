@@ -3,6 +3,8 @@ path: "/posts/ib/How-Hong-Kong-gamed-the-IB-Diploma"
 date: "March 24th 2020"
 title: "How Hong Kong gamed the IB Diploma"
 topic: "Hong Kong, Education"
+sort_date: "20200324"
+description: "The issues behind the scenes as well as some tips and tricks to success in the IB diploma."
 ---
 
 The International Baccalaureate Diploma Program (IBDP) is a two-year educational programme that provides internationally accepted qualification
@@ -12,14 +14,14 @@ for entry into higher education. Generally, many international schools around th
 
 <br />
 
-![May 2019 IB global averages](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/averagepts.png?raw=true)
+![May 2019 IB global averages](./ibimages/averagepts.png)
 
 So if we look at the statistics, the global average score for the IB is 29.65 points total in the May 2019 examinations. Meanwhile, the Hong Kong average is 35.99.
 I'm sure there have been many articles that have talked about how Hong Kong students [rank among the world's top ten in standardized testing](https://www.oecd.org/pisa/publications/pisa-2018-resultshtm.htm). However, I'm here to talk about why specifically, certain schools in Hong Kong are able to excel in th IB diploma program. In particular, I will talk about my own secondary school, [Sha Tin College](https://shatincollege.edu.hk/), which achieved the best results among any IB school in Hong Kong during the May 2019 examinations, with 11 students achieving 45 points, myself included. 
 
 Fun fact: I looked up the figures for the number of students that scored 45 points in the May 2019 examinations. In total, there were 275 students that scored a 45 globally, 36 of those came from Hong Kong. 
 
-![May 2019 point distribution](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/pointdistribution.PNG?raw=true)
+![May 2019 point distribution](./ibimages/pointdistribution.PNG)
 
 Ok so that's enough of tooting my own horn. What's going on here? Why are the numbers showing this?
 
@@ -39,11 +41,11 @@ What we need to realize, is that the IB isn't very creative in giving out questi
 <p align: center>
 <b>This one from May 2014 Timezone 2: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/2014mayp1tz2mathHL.PNG?raw=true)
+![](./ibimages/2014mayp1tz2mathHL.PNG)
 
 <b>And this one from May 2016 Timezone 2: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/2016p1tz2mathHL.PNG?raw=true)
+![](./ibimages/2016p1tz2mathHL.PNG)
 </p>
 
 
@@ -60,12 +62,12 @@ So what these tutoring centres do, is they drill the students with past papers. 
 <p align: center>
 <b>This one from May 2014 Timezone 1: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/M14EconHP1TZ1.PNG?raw=true)
+![](./ibimages/M14EconHP1TZ1.PNG)
 
 
 <b>And this one from May 2017 Timezone 1: </b>
 
-![](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/EconHLMay2017P1TZ1.PNG?raw=true)
+![](./ibimages/EconHLMay2017P1TZ1.PNG)
 </p>
 
 
@@ -95,7 +97,7 @@ The logic behind the IAs and presentations are simple, if you put that little bi
 
 Sounds hypothetical, sounds farfetched, but it does matter at the end and you will regret it if you don't do it.
 
-![Pikachu meme](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/ib/ibimages/pikachumeme.png?raw=true)
+![Pikachu meme](./ibimages/pikachumeme.png)
 
 Don't be that guy. 
 

@@ -45,7 +45,7 @@ const Header = ({ siteTitle }) => (
           </Link>{' '}
         </div>
       </div>
-      <div class="flex-container">
+      <div className="flex-container">
         <p style={{ maxWidth: 230 }}>Personal website by Alex Xia {' '}
           <a
             href="https://github.com/khxia"

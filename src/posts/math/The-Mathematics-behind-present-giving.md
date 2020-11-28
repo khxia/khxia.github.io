@@ -3,12 +3,13 @@ path: "/posts/math/The-Mathematics-behind-present-giving"
 date: "June 14th 2020"
 title: "The Mathematics behind choosing a present"
 topic: "Math"
+sort_date: "20200614"
+description: "A mini analysis on how to choose the mathematically optimal present"
 ---
 I'm sure we've all been in this scenario: we have to choose a present for a close friend or family for whatever reason, but we have no idea what to give them and we are afraid of disappointing them with a lackluster gift.
 
-
 <p align="center">
-<img src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/decision_making_math/you-cant-be-serious-santa.gif?raw=true"></img>
+<img src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/math/you-cant-be-serious-santa.gif?raw=true"></img>
 </p>
 
 
@@ -233,5 +234,5 @@ That being said, this is a very imprecise model. In a perfect world where everyt
 
 
 <p align="center">
-<img src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/decision_making_math/k-on.gif?raw=true"></img>
+<img src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/math/k-on.gif?raw=true"></img>
 </p>

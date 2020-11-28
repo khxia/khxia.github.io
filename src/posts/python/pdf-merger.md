@@ -3,6 +3,8 @@ path: "/posts/python/pdf-merger"
 date: "November 20th 2020"
 title: "How to create your own custom PDF merger using PyPDF2"
 topic: "Python"
+sort_date: "20201120"
+description: "Just a useful Python tool if you ever need to merge PDFs and you don't have a mac..."
 ---
 
 <h2>Introduction</h2>
@@ -10,7 +12,8 @@ topic: "Python"
 I'm sure there has been a time in our lives when we have wanted to merge some PDFs together for whatever reason. If you're on a Mac, then congrats to you because you don't need to worry about things like editing PDFs and whatnot. However, if you're a poor Windows user like me and did not pay for Adobe Acrobat Pro DC, then finding a solution for merging PDFs is not as easy. 
 
 <p align="center">
-<img width="400px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/os_meme.jpg?raw=True"></img>
+
+![os meme](./os_meme.jpg)
 </p>
 
 Of course, there are websites out there that can automatically merge PDFs for you and there are also free PDF editor apps out there which you can use to merge PDFs. However, there are concerns that people have when they use them. For example, if you are dealing with sensitive documents that contains your personal information (name, address, phone number, ID number) or confidential documents eg. official forms, company documents etc, then you may not want to use an online PDF merger tool since you don't want to be uploading those sensitive documents onto their servers. Free PDF editors apps eg. [soda PDF](https://www.sodapdf.com/) are riddled with ads and may require you to pay for premium at some point. 
@@ -113,7 +116,9 @@ Now that we have done the preparatory work, we can call a function called `cat_p
 Here comes the fun part: merging the PDFs. There are actually two different ways to do this. We will have a look at both of them. 
 
 <p align="center">
-<img width="400px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/methods_meme.jpg?raw=True"></img>
+
+![](./methods_meme.jpg)
+
 </p>
 
 <h3>Method 1</h3>
@@ -199,6 +204,8 @@ That being said, PyPDF2 is **not** a universal PDF toolkit and does not "provide
 
 Or you could buy Adobe Acrobat Pro and forget about everything I just said. 
 
-<p align="center">
-<img width="200px" src="https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/adobe_meme.jpg?raw=True"></img>
-</p>
+<div align="center">
+
+![](./adobe_meme.jpg)
+
+</div>
