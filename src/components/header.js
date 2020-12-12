@@ -41,12 +41,12 @@ const Header = ({ siteTitle }) => (
           <Link to="/aboutme" style={{
             color: `#ee4466`,
           }}>
-            About me
+            About Alex
           </Link>{' '}
         </div>
       </div>
       <div className="flex-container">
-        <p style={{ maxWidth: 230 }}>Personal website by Alex Xia {' '}
+        <p style={{ maxWidth: 230 }}>Personal blog by Alex Xia {' '}
           <a
             href="https://github.com/khxia"
             target="_blank"

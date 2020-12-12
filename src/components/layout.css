@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
 html {
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Roboto', Times, serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -104,8 +106,11 @@ figure {
 }
 hr {
   box-sizing: content-box;
-  height: 0;
+  height: 1px;
+  border-width: 0;
   overflow: visible;
+  color:  #ee4466;
+  background-color:  #ee4466;
 }
 button,
 input,
@@ -202,7 +207,7 @@ html {
 }
 body {
   color: rgb(0, 0, 0);
-  font-family: Segoe UI, georgia, serif;
+  font-family: 'Roboto', georgia, serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -648,6 +653,17 @@ pre tt:after {
   /* -moz-box-shadow: -1px 2px 5px #ccc;
   -webkit-box-shadow: -1px 2px 5px #ccc;
   box-shadow: -1px 2px 5px #ccc; */
+  }
+
+  .hr-paragraph-split {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    box-sizing: content-box;
+    height: 1px;
+    border-width: 0;
+    overflow: visible;
+    color:  #ee4466;
+    background-color:  #ee4466;
   }
 
 
