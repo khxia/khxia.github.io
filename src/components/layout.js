@@ -25,7 +25,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Header siteTitle="Natsu-kun" />
+      <Header siteTitle="Just Another View" />
       <div
         style={{
           margin: `0 auto`,

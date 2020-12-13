@@ -24,8 +24,9 @@ const Header = ({ siteTitle }) => (
             style={{
               color: `#ee4466`,
               textDecoration: `none`,
-              fontFamily: `ヒラギノ角ゴ Pro W3`,
+              fontWeight: `300`,
               fontStyle: `italic`,
+              fontSize: `2.4rem`
             }}
           >
             {siteTitle}
@@ -46,7 +47,7 @@ const Header = ({ siteTitle }) => (
         </div>
       </div>
       <div className="flex-container">
-        <p style={{ maxWidth: 230 }}>Personal blog by Alex Xia {' '}
+        <p style={{ maxWidth: 230 }}>Personal Blog by Alex Xia {' '}
           <a
             href="https://github.com/khxia"
             target="_blank"

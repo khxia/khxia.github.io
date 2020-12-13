@@ -85,8 +85,10 @@ function AboutMe() {
         This is a place where I post my blogs, as well as anything interesting I have to share. Have a look around!
     </p>
       <p>
-        For those who're interested about the name of this website, it's derived from my Chinese name: 夏焜昊. Which is pronounced Xia Kun Hao. Since Natsu is 夏 in Japanese,
-        and kun (君) is a honourific, I combined the two to create Natsu-kun. Don't cringe.
+        For those who're interested about the name of my blog, there is no deep meaning to it. Like you, I am just 
+        another person who has seen different views, experienced different things, and have different thoughts.
+        As a person who has encountered things that you may not have, I am here to share them to you. After all, 
+        that is what blogs are for.
     </p>
       <div style={{ maxWidth: `300px`, marginBottom: `1.45 rem` }}>
 
