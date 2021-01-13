@@ -35,9 +35,11 @@ function AboutMe() {
         <div>
           <div className="flex-container">
           <p>
-            Hi, my name is Alex Xia, an undergraduate Computer Science major at UCLA. I am an undergrad, so most of my CS background comes
-            from school (C++) for now. Having said that, I have been messing around with JavaScript and React (hence this blog). I also have
-            quite a bit of experience in Python after doing some Machine Learning and writing some API's in my internship.
+          👋 Hi, my name is Alex Xia, a sophomore Computer Science major at UCLA. 
+          I'm passionate about creating things, learning new things, and teaching people. 
+          I mainly code in C++, Python, and JavaScript. 
+          Visit my <a target='_blank' href="https://alex-xia.vercel.app" style={{ color: `#ee4466` }}>website</a> to 
+          learn more about me and my projects.
       </p>
           <Img style={{
             padding: '130px',
@@ -48,6 +50,8 @@ function AboutMe() {
             width: '220px'
           }}
             alt="" fixed={data.selfImg.childImageSharp.fixed} />
+
+            
           </div>
           <hr className="hr-paragraph-split" />
           <p>
@@ -64,15 +68,15 @@ function AboutMe() {
                 <li>
                   <b>Games</b> - <strike>Now before people start assuming things, I would like to clarify that I do have some actual
               redeeming qualities. </strike> I really like games a lot, I believe that it's a big part of what brings people together. In fact, what inspired me to
-              study CS in the first place was because of computer games. I've been playing <a href="https://na.leagueoflegends.com/en-us/" style={{ color: `#ee4466` }}> League of Legends </a>
-              for almost 6 years, but lately I've been getting quite into <a href="https://playvalorant.com/en-us/" style={{ color: `#ee4466` }}>VALORANT</a> and
-              {' '}<a href="https://genshin.mihoyo.com/en" style={{ color: `#ee4466` }}>Genshin Impact</a>.
+              study CS in the first place was because of computer games. I've been playing <a target='_blank' href="https://na.leagueoflegends.com/en-us/" style={{ color: `#ee4466` }}> League of Legends </a>
+              for almost 6 years, but lately I've been getting quite into <a target='_blank' href="https://playvalorant.com/en-us/" style={{ color: `#ee4466` }}>VALORANT</a> and
+              {' '}<a target='_blank' href="https://genshin.mihoyo.com/en" style={{ color: `#ee4466` }}>Genshin Impact</a>.
             </li>
 
                 <li>
                   <b>School</b> - Classes are very fun. I get to learn a bunch of cool coding and math stuff. It's really cool to learn about how the magic-y coding stuff isn't all that magic-y after all.
-              Aside from academics, I am also an officer at <a href="https://hack.uclaacm.com/" style={{ color: `#ee4466` }}>ACM Hack</a>, where I got to teach some <a href="https://github.com/uclaacm" style={{ color: `#ee4466` }}>workshops</a>
-                  {' '}and organize some <a href="https://hoth.uclaacm.com/" style={{ color: `#ee4466` }}>hackathons.</a> At Hack, I got to meet the most incredible people who have taught me a lot and has changed me as a person.
+              Aside from academics, I am also an officer at <a target='_blank' href="https://hack.uclaacm.com/" style={{ color: `#ee4466` }}>ACM Hack</a>, where I got to teach some <a target='_blank' href="https://github.com/uclaacm" style={{ color: `#ee4466` }}>workshops</a>
+                  {' '}and organize some <a target='_blank' href="https://hoth.uclaacm.com/" style={{ color: `#ee4466` }}>hackathons.</a> At Hack, I got to meet the most incredible people who have taught me a lot and has changed me as a person.
             </li>
               </ul>
             </p>

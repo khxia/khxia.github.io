@@ -49,6 +49,7 @@ a {
 a:active,
 a:hover {
   outline-width: 0;
+  color: #eb8499;
 }
 abbr[title] {
   border-bottom: none;
