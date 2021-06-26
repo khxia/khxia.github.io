@@ -7,7 +7,7 @@ import random
 filepath = './src/pages/aboutme.js'
 
 CLIENT_ID = os.environ['CLIENT_ID']
-CLIENT_SECRET = os.environ['SECRET']
+CLIENT_SECRET = os.environ['CLIENT_SECRET']
 refresh_token = os.environ['REFRESH_TOKEN']
 auth_code= os.environ['AUTH_CODE']
 
