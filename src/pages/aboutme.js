@@ -55,14 +55,13 @@ function AboutMe() {
           </div>
           <hr className="hr-paragraph-split" />
           <p>
-            <h3>Interests</h3 >
+            <h3>🎨 Interests</h3>
             <p>
               I have a few main hobbies:
           <ul>
                 <li><b>Anime</b> - Those who know me are probably aware that I am a massive weeb. I'm a consumer of almost all genres of anime, and if you name any anime or manga title,
             chances are,
-            I've watched it. I really do need to keep a track of all the anime and manga that I've watched/read. Maybe I'll make a <a href="https://myanimelist.net/" style={{ color: `#ee4466` }}>MyAnimeList.net </a> account some day.
-            We'll see.
+            I've watched it. Judge me on <a target='_blank' href="https://myanimelist.net/profile/RoyalCandy" style={{ color: `#ee4466` }}>MAL</a>. 
             </li>
 
                 <li>
@@ -80,6 +79,26 @@ function AboutMe() {
             </li>
               </ul>
             </p>
+          </p>
+          <hr className="hr-paragraph-split" />
+          <p>
+            <h3>🎶 Music</h3>
+            <p>
+              My music taste usually varies from time to time. Generally, I listen to Kpop, Jpop, Cpop, and classical music.
+              Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
+            </p>
+            {/* SPOTIFY MIX STARTS HERE */}
+<ul><li><a href='https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE'>Dynamite</a> - <a href='https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX'>BTS</a></li>
+<li><a href='https://open.spotify.com/track/1Alsp6EVIAHTDorSjPeRuY'>3月9日</a> - <a href='https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8'>Remioromen</a></li>
+<li><a href='https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg'>もう少しだけ</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/7aZDLCAqie3RYzCrBFXOJL'>Period</a> - <a href='https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE'>CHEMISTRY</a></li>
+<li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<li><a href='https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi'>怪物</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c'>優しい彗星</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk'>群青</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/2iPSABCU3Yk6sQYID4ibKh'>Hikari No Senritsu</a> - <a href='https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy'>Kalafina</a></li>
+<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li></ul>
+{/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
       </div>

@@ -1,0 +1,49 @@
+name: Update music taste
+on: 
+  push:
+    branches:
+      - dev2
+    schedule:
+      - cron '0 0 * * *'
+jobs:
+  update aboutme page:
+    name: spotify music
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v2
+      - name: Set Up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - uses: actions/cache@v2
+        name: configure pip caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python dependencies
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Write Spotify Mix
+        env: 
+          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.SPOTIFY_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          AUTH_CODE: ${{ secrets.SPOTIFY_AUTH_CODE }}
+        run: |
+          python write_spotify_songs.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        name: commit and push
+        with: "Update Spotify Mix"
+        file_pattern: src/pages/*.js
+        commit_user_name: 'my_spotify_mix_bot'
+        push_options: '--force'
+      - uses: enriikke/gatsby-gh-pages-action@v2
+        name: Deploy to github pages
+        with:
+          access-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          deploy-branch: master
+        
+
+      
