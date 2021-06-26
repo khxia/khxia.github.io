@@ -6,7 +6,7 @@ on:
     schedule:
       - cron '0 0 * * *'
 jobs:
-  update aboutme page:
+  update-aboutme-page:
     name: spotify music
     runs-on: ubuntu-latest
     steps: 
