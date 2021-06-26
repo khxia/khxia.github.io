@@ -35,10 +35,11 @@ jobs:
           python write_spotify_songs.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         name: commit and push
-        with: "Update Spotify Mix"
-        file_pattern: src/pages/*.js
-        commit_user_name: 'my_spotify_mix_bot'
-        push_options: '--force'
+        with: 
+          commit_message: "Update Spotify Mix"
+          file_pattern: src/pages/*.js
+          commit_user_name: 'my_spotify_mix_bot'
+          push_options: '--force'
       - uses: enriikke/gatsby-gh-pages-action@v2
         name: Deploy to github pages
         with:
