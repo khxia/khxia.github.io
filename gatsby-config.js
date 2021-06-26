@@ -76,7 +76,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/circle-cropped2.png`, // This path is relative to the root of the site. // change eventually.
+        icon: `src/images/default_icon.png`, // This path is relative to the root of the site. // change eventually.
       },
     },
     `gatsby-plugin-theme-ui`,
