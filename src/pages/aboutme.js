@@ -88,16 +88,16 @@ function AboutMe() {
               Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<ul><li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/62X8QsHGfAImwjrCtlFByg'>Sincerely</a> - <a href='https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t'>Lia</a></li>
+<ul><li><a href='https://open.spotify.com/track/5NFyTOIDaq9ldGMuNfypgg'>イマジネーション</a> - <a href='https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt'>SPYAIR</a></li>
+<li><a href='https://open.spotify.com/track/2iPSABCU3Yk6sQYID4ibKh'>Hikari No Senritsu</a> - <a href='https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy'>Kalafina</a></li>
+<li><a href='https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk'>群青</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD'>BLIZZARD</a> - <a href='https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT'>BURNOUT SYNDROMES</a></li>
 <li><a href='https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4'>Celebrity</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/1Alsp6EVIAHTDorSjPeRuY'>3月9日</a> - <a href='https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8'>Remioromen</a></li>
-<li><a href='https://open.spotify.com/track/2TjYJNLMzC2g7vPdVIADXa'>赤伶</a> - <a href='https://open.spotify.com/artist/6stPrcreG671w8jLivyFQ6'>等什么君</a></li>
-<li><a href='https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE'>Dynamite</a> - <a href='https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX'>BTS</a></li>
-<li><a href='https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a'>Awaken</a> - <a href='https://open.spotify.com/artist/47mIJdHORyRerp4os813jD'>League of Legends</a></li>
-<li><a href='https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK'>Psycho</a> - <a href='https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM'>Red Velvet</a></li>
-<li><a href='https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4'>MORE</a> - <a href='https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v'>K/DA</a></li>
-<li><a href='https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn'>炎</a> - <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a></li></ul>
+<li><a href='https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT'>Koko de Iki wo Shite</a> - <a href='https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn'>eill</a></li>
+<li><a href='https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg'>もう少しだけ</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv'>ハルジオン</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<li><a href='https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa'>打上花火</a> - <a href='https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC'>DAOKO</a></li></ul>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
