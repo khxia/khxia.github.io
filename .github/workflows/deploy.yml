@@ -3,8 +3,8 @@ on:
   push:
     branches:
       - dev2
-    schedule:
-      - cron: '@daily'
+  schedule:
+    - cron: '@daily'
 jobs:
   update-aboutme-page:
     name: spotify music
