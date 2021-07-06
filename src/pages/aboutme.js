@@ -88,15 +88,15 @@ function AboutMe() {
               Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<ul><li><a href='https://open.spotify.com/track/7aZDLCAqie3RYzCrBFXOJL'>Period</a> - <a href='https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE'>CHEMISTRY</a></li>
-<li><a href='https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc'>Future</a> - <a href='https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM'>Red Velvet</a></li>
-<li><a href='https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4'>Celebrity</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/62X8QsHGfAImwjrCtlFByg'>Sincerely</a> - <a href='https://open.spotify.com/artist/1Z0sSjjlCFNG4WvU0DUG8t'>Lia</a></li>
-<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
-<li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4'>MORE</a> - <a href='https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v'>K/DA</a></li>
-<li><a href='https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn'>I CAN'T STOP ME</a> - <a href='https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0'>TWICE</a></li>
+<ul><li><a href='https://open.spotify.com/track/224evSvhmTORMjBH06l3Nj'>季路</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
 <li><a href='https://open.spotify.com/track/7uDJLJuY7kRTLf94u0ImqJ'>辞九门回忆</a> - <a href='https://open.spotify.com/artist/6stPrcreG671w8jLivyFQ6'>等什么君</a></li>
+<li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK'>Psycho</a> - <a href='https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM'>Red Velvet</a></li>
+<li><a href='https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk'>群青</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c'>優しい彗星</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/2iPSABCU3Yk6sQYID4ibKh'>Hikari No Senritsu</a> - <a href='https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy'>Kalafina</a></li>
+<li><a href='https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4'>Celebrity</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
 <li><a href='https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT'>Koko de Iki wo Shite</a> - <a href='https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn'>eill</a></li></ul>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
