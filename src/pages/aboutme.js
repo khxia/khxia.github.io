@@ -35,7 +35,7 @@ function AboutMe() {
         <div>
           <div className="flex-container">
           <p>
-          👋 Hi, my name is Alex Xia, a sophomore Computer Science major at UCLA. 
+          👋 Hi, my name is Alex Xia, a junior Computer Science major at UCLA. 
           I'm passionate about creating things, learning new things, and teaching people. 
           I mainly code in C++, Python, and JavaScript. 
           Visit my <a target='_blank' href="https://alex-xia.vercel.app" style={{ color: `#ee4466` }}>website</a> to 
