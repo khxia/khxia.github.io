@@ -88,16 +88,16 @@ function AboutMe() {
               Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<ul><li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
-<li><a href='https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa'>打上花火</a> - <a href='https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC'>DAOKO</a></li>
-<li><a href='https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4'>Celebrity</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c'>優しい彗星</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<ul><li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
 <li><a href='https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn'>炎</a> - <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a></li>
-<li><a href='https://open.spotify.com/track/2iPSABCU3Yk6sQYID4ibKh'>Hikari No Senritsu</a> - <a href='https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy'>Kalafina</a></li>
-<li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<li><a href='https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi'>怪物</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT'>Koko de Iki wo Shite</a> - <a href='https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn'>eill</a></li>
 <li><a href='https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn'>I CAN'T STOP ME</a> - <a href='https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0'>TWICE</a></li>
-<li><a href='https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk'>群青</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC'>アンコール</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li></ul>
+<li><a href='https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB'>夜に駆ける</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC'>アンコール</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK'>Psycho</a> - <a href='https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM'>Red Velvet</a></li></ul>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
