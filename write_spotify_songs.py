@@ -116,7 +116,7 @@ try:
         for pos in range(index):
             uri = liked_tracks[pos]['track']['uri']
             uri_list.append(uri)
-        uri_list = uri_list.join(",")
+        uri_list = ",".join(uri_list)
         requests.post(f'https://api.spotify.com/v1/playlists/{GENERAL_PLAYLIST_ID}/tracks?position=0&uris={uri_list}', headers={'Authorization': auth_string_bearer, 'Content-Type': 'application/json'})
 except Exception as e:
     print(e)
