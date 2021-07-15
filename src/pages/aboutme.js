@@ -88,15 +88,15 @@ function AboutMe() {
               Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<ul><li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/1Alsp6EVIAHTDorSjPeRuY'>3月9日</a> - <a href='https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8'>Remioromen</a></li>
+<ul><li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg'>もう少しだけ</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
 <li><a href='https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi'>怪物</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/1C9moYPdQaSxUlZbwR6tBJ'>グレースノート</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq'>CRY FOR ME</a> - <a href='https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0'>TWICE</a></li>
+<li><a href='https://open.spotify.com/track/2zjcMpfEkRy17HH7lDEFCH'>I beg you</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
 <li><a href='https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk'>群青</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a> - <a href='https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358'>SHAUN</a></li>
-<li><a href='https://open.spotify.com/track/4SgrbIUnv66buOpGfbAKvV'>春はゆく</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT'>Koko de Iki wo Shite</a> - <a href='https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn'>eill</a></li>
+<li><a href='https://open.spotify.com/track/2iPSABCU3Yk6sQYID4ibKh'>Hikari No Senritsu</a> - <a href='https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy'>Kalafina</a></li>
+<li><a href='https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD'>BLIZZARD</a> - <a href='https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT'>BURNOUT SYNDROMES</a></li>
 <li><a href='https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f'>Weekend</a> - <a href='https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu'>TAEYEON</a></li></ul>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
