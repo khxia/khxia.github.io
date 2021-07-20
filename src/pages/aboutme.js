@@ -89,15 +89,15 @@ function AboutMe() {
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
 <ul><li><a href='https://open.spotify.com/track/2zjcMpfEkRy17HH7lDEFCH'>I beg you</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c'>優しい彗星</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/7aZDLCAqie3RYzCrBFXOJL'>Period</a> - <a href='https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE'>CHEMISTRY</a></li>
-<li><a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a> - <a href='https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358'>SHAUN</a></li>
-<li><a href='https://open.spotify.com/track/4SgrbIUnv66buOpGfbAKvV'>春はゆく</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
+<li><a href='https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB'>夜に駆ける</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/1Alsp6EVIAHTDorSjPeRuY'>3月9日</a> - <a href='https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8'>Remioromen</a></li>
+<li><a href='https://open.spotify.com/track/1C9moYPdQaSxUlZbwR6tBJ'>グレースノート</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
 <li><a href='https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC'>アンコール</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB'>夜に駆ける</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li></ul>
+<li><a href='https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD'>BLIZZARD</a> - <a href='https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT'>BURNOUT SYNDROMES</a></li>
+<li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
+<li><a href='https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv'>ハルジオン</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/4SgrbIUnv66buOpGfbAKvV'>春はゆく</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li></ul>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
