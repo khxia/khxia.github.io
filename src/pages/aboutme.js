@@ -88,16 +88,16 @@ function AboutMe() {
               Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<ul><li><a href='https://open.spotify.com/track/2eryYHH4gucsDQt3PRW4Ns'>牽絲戲</a> - <a href='https://open.spotify.com/artist/050jSbIbbe9vaPQJYgtbxE'>木及少年</a></li>
+<ul><li><a href='https://open.spotify.com/track/1Alsp6EVIAHTDorSjPeRuY'>3月9日</a> - <a href='https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8'>Remioromen</a></li>
+<li><a href='https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq'>CRY FOR ME</a> - <a href='https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0'>TWICE</a></li>
 <li><a href='https://open.spotify.com/track/7aZDLCAqie3RYzCrBFXOJL'>Period</a> - <a href='https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE'>CHEMISTRY</a></li>
-<li><a href='https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB'>夜に駆ける</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f'>Weekend</a> - <a href='https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu'>TAEYEON</a></li>
-<li><a href='https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD'>BLIZZARD</a> - <a href='https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT'>BURNOUT SYNDROMES</a></li>
 <li><a href='https://open.spotify.com/track/1C9moYPdQaSxUlZbwR6tBJ'>グレースノート</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
 <li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/224evSvhmTORMjBH06l3Nj'>季路</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC'>アンコール</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi'>怪物</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li></ul>
+<li><a href='https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB'>夜に駆ける</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg'>もう少しだけ</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk'>群青</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
+<li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f'>Weekend</a> - <a href='https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu'>TAEYEON</a></li></ul>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
