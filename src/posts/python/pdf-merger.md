@@ -21,9 +21,9 @@ Of course, there are websites out there that can automatically merge PDFs for yo
 Anyways, the point is that there may come a time where you want a quick and easy way to merge some PDFs, or manipulate any PDf. Thankfully, there is a Python library called [PyPDF2](http://mstamy2.github.io/PyPDF2/) that lets us do this easily. 
 
 > <details>
-> <summary>Stop the cap and gimme the code</summary>
+> <summary>> Click here to see the full code</summary>
 > 
-> No problem. You can see the full implementation of the PDF merger in the [Github repo](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/mergepdf.py)
+> Too lazy to read? No problem. You can see the full implementation of the PDF merger in the [Github repo](https://github.com/khxia/khxia.github.io/blob/dev2/src/posts/python/mergepdf.py)
 > 
 > </details>
 

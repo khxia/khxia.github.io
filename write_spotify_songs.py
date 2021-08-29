@@ -10,7 +10,7 @@ filepath = './src/pages/aboutme.js'
 
 CLIENT_ID = os.environ['CLIENT_ID']
 CLIENT_SECRET = os.environ['CLIENT_SECRET']
-refresh_token = os.environ['REFRESH_TOKEN']
+REFRESH_TOKEN = os.environ['REFRESH_TOKEN']
 auth_code= os.environ['AUTH_CODE']
 
 
@@ -20,7 +20,7 @@ auth_encoding = 'Basic ' + str(base64.b64encode(auth_string.encode("ascii")).dec
 
 # https://accounts.spotify.com/authorize?client_id={client_id}&response_type=code&redirect_uri={some_redirect_uri}&scope=user-library-read%20playlist-modify-public%20&state={optional}
 
-auth_r = requests.post('https://accounts.spotify.com/api/token', data={'grant_type': 'refresh_token', 'refresh_token': refresh_token}, headers={'Authorization': auth_encoding})
+auth_r = requests.post('https://accounts.spotify.com/api/token', data={'grant_type': 'refresh_token', 'refresh_token': REFRESH_TOKEN}, headers={'Authorization': auth_encoding})
 
 def find_index_of_latest_song(most_recent, liked_songs):
     ''' Finds the index in liked_songs that matches the most recent song in general_playlist '''
