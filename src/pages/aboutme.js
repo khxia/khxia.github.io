@@ -33,7 +33,7 @@ function AboutMe() {
       <h2>About Me</h2>
       <div className="flex-container">
         <div>
-          <div className="flex-container">
+          <div>
           <p>
           👋 Hi, my name is Alex Xia, a junior Computer Science major at UCLA. 
           I'm passionate about creating things, learning new things, and teaching people. 
@@ -43,13 +43,13 @@ function AboutMe() {
       </p>
           <Img style={{
             padding: '130px',
-            marginLeft: '20px',
+            marginLeft: 'auto',
             marginRight: 'auto',
             display: 'block',
             borderRadius: '10px',
             width: '220px'
           }}
-            alt="" fixed={data.selfImg.childImageSharp.fixed} />
+            alt="Personal photo" fixed={data.selfImg.childImageSharp.fixed} />
 
             
           </div>
