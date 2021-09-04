@@ -88,16 +88,16 @@ function AboutMe() {
               Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<ul><li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv'>Sleepless rainy night</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<ul><li><a href='https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B'>Secret Garden</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<li><a href='https://open.spotify.com/track/2zjcMpfEkRy17HH7lDEFCH'>I beg you</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD'>BLIZZARD</a> - <a href='https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT'>BURNOUT SYNDROMES</a></li>
 <li><a href='https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi'>怪物</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
-<li><a href='https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c'>優しい彗星</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C'>Lovesick Girls</a> - <a href='https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'>BLACKPINK</a></li>
-<li><a href='https://open.spotify.com/track/1Alsp6EVIAHTDorSjPeRuY'>3月9日</a> - <a href='https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8'>Remioromen</a></li>
-<li><a href='https://open.spotify.com/track/08YwAPnX8sygJUXG9rvhDv'>ハルジオン</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
 <li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/2RbVD1IgXtyQFlLtbthaZ3'>Stand by me, Stand by you.</a> - <a href='https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs'>HIRAIDAI</a></li></ul>
+<li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv'>Sleepless rainy night</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
+<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
+<li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
+<li><a href='https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c'>優しい彗星</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li></ul>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
