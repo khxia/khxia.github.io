@@ -20,6 +20,7 @@ auth_encoding = 'Basic ' + str(base64.b64encode(auth_string.encode("ascii")).dec
 
 # https://accounts.spotify.com/authorize?client_id={client_id}&response_type=code&redirect_uri={some_redirect_uri}&scope=user-library-read%20playlist-modify-public%20&state={optional}
 
+
 auth_r = requests.post('https://accounts.spotify.com/api/token', data={'grant_type': 'refresh_token', 'refresh_token': REFRESH_TOKEN}, headers={'Authorization': auth_encoding})
 
 def find_index_of_latest_song(most_recent, liked_songs):
@@ -34,6 +35,16 @@ def find_index_of_latest_song(most_recent, liked_songs):
             result = result + 1
     return -1
 
+# url = https://open.spotify.com/track/2RbVD1IgXtyQFlLtbthaZ3 
+def extract_uniqueid_from_url(url):
+    target_string = 'track/'
+    start = url.find(target_string) + len(target_string)
+    end = url.find("/", start)
+    if end == -1:
+        return url[start:]
+    return url[start:end]
+
+
 try:
     # UPDATING BLOG PAGE
     res = auth_r.json()
@@ -44,6 +55,12 @@ try:
     random.seed()
     random_list = random.sample(range(25), 10)
     liked_tracks = tracks_r.json()['items']
+
+    iframe_list = []
+    replace_string = "REPLACE_STRING"
+    template_iframe = '<iframe src="https://open.spotify.com/embed/track/' + replace_string + '" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>'
+    
+    # build two different types of lists: One is the unordered list, one is the iframe list
     for index in random_list:
         track = liked_tracks[index]
         song_url = track['track']['external_urls']['spotify']
@@ -52,10 +69,21 @@ try:
         artist_url = track['track']['artists'][0]['external_urls']['spotify']
         ul_list.append(f'<li><a href=\'{song_url}\'>{name}</a> - <a href=\'{artist_url}\'>{artist}</a></li>')
 
+        uniqueid = extract_uniqueid_from_url(song_url)
+        start = template_iframe.find(replace_string)
+        end = start + len(replace_string)
+        iframe_list.append(template_iframe[:start] + uniqueid + template_iframe[end:])
+
     ul_list = "\n".join(ul_list)
     ul_list = f'<ul>{ul_list}</ul>'
 
+    iframe_list = "\n".join(iframe_list)
+     
     print(ul_list)
+    print(iframe_list)
+
+    # final_list = ul_list
+    final_list = iframe_list
 
     start_marker = '{/* SPOTIFY MIX STARTS HERE */}'
     end_marker = '{/* SPOTIFY MIX ENDS HERE */}'
@@ -65,7 +93,7 @@ try:
     start_index = oldfile.index(start_marker) + len(start_marker)
     end_index = oldfile.index(end_marker)
 
-    newfile = oldfile[:start_index] + '\n' + ul_list + '\n' + oldfile[end_index:]
+    newfile = oldfile[:start_index] + '\n' + final_list + '\n' + oldfile[end_index:]
     # newfile = newfile.encode(encoding='UTF-8')
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(newfile)

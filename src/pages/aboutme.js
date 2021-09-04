@@ -85,7 +85,8 @@ function AboutMe() {
             <h3>🎶 Music</h3>
             <p>
               My music taste usually varies from time to time. Generally, I listen to Kpop, Jpop, Cpop, and classical music.
-              Below is a random mix of my most recent favorite Spotify tracks. This updates daily.
+              Below is a random mix of my most recent favorite Spotify tracks. This updates daily. <Link to="/posts/python/spotify-bot" style={{ color: `#ee4466` }}>How?</Link>
+
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
 <ul><li><a href='https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg'>もう少しだけ</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
