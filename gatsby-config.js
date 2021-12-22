@@ -5,21 +5,6 @@ module.exports = {
     author: `Alex Xia`,
   },
   plugins: [
-    // {
-    //   resolve: `gatsby-transformer-remark`,
-    //   options: {
-    //     plugins: [
-    //       {
-    //         resolve: `gatsby-remark-katex`,
-    //         options: {
-    //           // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
-    //           strict: `error`
-    //         }
-    //       },
-    //       `gatsby-remark-prismjs`,
-    //     ]
-    //   }
-    // },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
