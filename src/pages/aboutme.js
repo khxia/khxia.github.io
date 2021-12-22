@@ -89,16 +89,16 @@ function AboutMe() {
 
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<ul><li><a href='https://open.spotify.com/track/5F6nAnNIsRk9QbPOx9t11B'>Secret Garden</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/2zjcMpfEkRy17HH7lDEFCH'>I beg you</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/1ttNpiMd8WDfXAjITCfDZD'>BLIZZARD</a> - <a href='https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT'>BURNOUT SYNDROMES</a></li>
-<li><a href='https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi'>怪物</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li>
-<li><a href='https://open.spotify.com/track/37S86pw74OH8j96ZmMnrpR'>YOU&I</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/0DPvmxbDHotmT6zHCCE6dm'>cold rain</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv'>Sleepless rainy night</a> - <a href='https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU'>IU</a></li>
-<li><a href='https://open.spotify.com/track/1SEFLwokQfYT4nrWqAlIaw'>Superhero - Japanese Ver.</a> - <a href='https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe'>yukaDD(;´∀｀)</a></li>
-<li><a href='https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6'>Torches</a> - <a href='https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm'>Aimer</a></li>
-<li><a href='https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c'>優しい彗星</a> - <a href='https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj'>YOASOBI</a></li></ul>
+<iframe src="https://open.spotify.com/embed/track/3p8low79RQzkixDlIngBTT" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6KMgPewrVRxzeFzRwkFa0M" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4cDm9C5jhBiIyYxVhQmMwB" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5xrtzzzikpG3BLbo4q1Yul" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3VsuvxOb7rzSLROWAKiqAW" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2fJ70dRX7J4jiVxKUQQp7C" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/61fGNB6BX8I8rsfyYvKlFE" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4cXoTliOOgbpgUoW7PiA1n" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3y7ByLZ05tluscOTRgEJ9Y" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5lyMIH0DJaG58plHd6mL7g" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
