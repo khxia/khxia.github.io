@@ -59,7 +59,7 @@ Hence, we see that although the code that you wrote looks pretty intuitive, it i
 
 > Why?
 
-Because C++ 11 introduced **move semantics**, which, instead of copying data, the compiler will realize that we are copying data uncessarily, and will instead *move* the vector from one variable to another. 
+Because C++ 11 introduced **move semantics**, which, instead of copying data, the compiler will realize that we are copying data unnecessarily, and will instead *move* the vector from one variable to another. 
 
 Below is an animated representation of what 'moving' looks like:
 
@@ -136,7 +136,7 @@ numbers.size(); // an rvalue
 
 ### References
 
-If you've taken CS31/32, you'll know what we can take references of a variable in C++; it's how pass by reference works. Well in fact, we can take the reference to not just variables, but lvalues, and the syntax is exactly the same: with the `&` sign.
+If you've taken CS31/32, you'll know that we can take references of a variable in C++; it's how pass by reference works. Well in fact, we can take the reference to not just variables, but lvalues, and the syntax is exactly the same: with the `&` sign.
 
 ```cpp
 int& r0 = hello; // okay, variable is an lvalue
@@ -150,7 +150,7 @@ int& r2 = 1 + 2; // error, this is an rvalue
 const int& r3 = 1 + 2; // okay to bind to an rvalue
 ```
 
-On the other, we can actually take the reference of **rvalues** as well. We represent this using the double ampersand sign: `&&` in the declarator.
+On the other hand, we can actually take the reference of **rvalues** as well. We represent this using the double ampersand sign: `&&` in the declarator.
 
 One difference with the single `&`, is that we can ONLY bind this to `rvalues`.
 
@@ -177,7 +177,7 @@ addone(2); // ok, passed in an rvalue
 
 ```
 
-## `std::move`
+## std::move
 
 One function that's very important to us that was introduced in the standard library is the `std::move` function. 
 
