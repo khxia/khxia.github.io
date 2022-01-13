@@ -23,7 +23,7 @@
     "imagemin-pngquant": "^5.1.0",
     "katex": "^0.11.1",
     "pngquant-bin": "^3.1.1",
-    "prismjs": "^1.23.0",
+    "prismjs": "^1.25.0",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
