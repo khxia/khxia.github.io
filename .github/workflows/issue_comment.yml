@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          echo "issue object #${{ github.event.issue }}"
+          echo "issue object #${{ github.event.issue.sender.organizations_url }}"
       
       
 
