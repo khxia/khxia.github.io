@@ -9,6 +9,9 @@ jobs:
       github.event.issue.number == 5
     runs-on: ubuntu-latest
     steps:
+      - name: test print
+        run: |
+          echo "issue owner #${{ github.event.issue.comment.author_association }}"
       - uses: actions/checkout@v2
       - name: Set up Python
         uses: actions/setup-python@v2

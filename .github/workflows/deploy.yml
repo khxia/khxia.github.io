@@ -1,8 +1,5 @@
 name: Update music taste
 on: 
-  push:
-    branches:
-      - dev2
   schedule:
     - cron: '0 0 * * *'
 jobs:
