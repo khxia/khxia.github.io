@@ -11,7 +11,8 @@ jobs:
     steps:
       - name: test print
         run: |
-          echo "issue owner #${{ github.event.issue.comment.author_association }}"
+          echo "issue author assoc: ${{ github.event.comment.author_association }}"
+          echo "issue comment body: ${{ github.event.comment.body }}"
       - uses: actions/checkout@v2
       - name: Set up Python
         uses: actions/setup-python@v2
