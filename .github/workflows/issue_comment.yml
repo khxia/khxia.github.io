@@ -6,13 +6,12 @@ jobs:
     name: Update Announcements
     if: |
       !github.event.issue.pull_request &&
-      github.event.issue.number == 5
+      github.event.issue.number == 5 &&
+      (github.event.comment.author_association == 'OWNER' ||
+      github.event.comment.author_association == 'MEMBER' ||
+      github.event.comment.author_association == 'CONTRIBUTOR')
     runs-on: ubuntu-latest
     steps:
-      - name: test print
-        run: |
-          echo "issue author assoc: ${{ github.event.comment.author_association }}"
-          echo "issue comment body: ${{ github.event.comment.body }}"
       - uses: actions/checkout@v2
       - name: Set up Python
         uses: actions/setup-python@v2
