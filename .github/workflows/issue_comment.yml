@@ -6,10 +6,7 @@ jobs:
     name: Update Announcements
     if: |
       !github.event.issue.pull_request &&
-      github.event.issue.number == 5 &&
-      (github.event.issue.comment.author_association == 'OWNER' ||
-      github.event.issue.comment.author_association == 'MEMBER' ||
-      github.event.issue.comment.author_association == 'CONTRIBUTOR')
+      github.event.issue.number == 5
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
