@@ -53,7 +53,7 @@ function AboutMe() {
 
             
           </div>
-          <hr className="hr-paragraph-split" />
+          {/* <hr className="hr-paragraph-split" />
           <p>
             <h3>🎨 Interests</h3>
             <p>
@@ -79,7 +79,7 @@ function AboutMe() {
             </li>
               </ul>
             </p>
-          </p>
+          </p> */}
           <hr className="hr-paragraph-split" />
           <p>
             <h3>🎶 Music</h3>
