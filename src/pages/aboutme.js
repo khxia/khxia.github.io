@@ -89,16 +89,16 @@ function AboutMe() {
 
             </p>
             {/* SPOTIFY MIX STARTS HERE */}
-<iframe src="https://open.spotify.com/embed/track/0AtZkwQcZmhVzQCEJga3ni" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/track/1CPZ5BxNNd0n0nF4Orb9JS" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/track/2IfSPLPDW6RGosdB5huwAA" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/track/7cKsYrxKACCqAlefoECZcM" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/track/42suymP38HAIBl0wiDfpst" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3UEwPrMwvnqXs2nv4yDwTm" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3wJHCry960drNlAUGrJLmz" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/track/2OhStQJiQ1CFGvCZKMaItL" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/track/5tVzG4tw3M9VLkcQ0fOtgF" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/track/15JINEqzVMv3SvJTAXAKED" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/27x2IrIGwr56QWkqJ4cu9I" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/track/4LOLvDtzykDC7y9WehFoOi" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/track/52iiHWnWlRaYwUobhKGXW3" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0AtZkwQcZmhVzQCEJga3ni" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3YFGh5Kga1K40yUhuCVffM" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5p0ietGkLNEqx1Z7ijkw5g" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1YqVJ2YSgwxWpfuENocF2t" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 {/* SPOTIFY MIX ENDS HERE */}
           </p>
         </div>
